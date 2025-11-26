@@ -1,1 +1,1 @@
- 
+(format t "Hello world")
